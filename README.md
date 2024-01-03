@@ -28,7 +28,7 @@ The App has a very simple and interactive interface which helps the user to trac
 
 The app is currently in the Playstore in production mode (Under Review). 
 You can access the app: <a href="https://play.google.com/store/apps/details?id=com.rishav.buckoid" target="blank">View On Google Play</a>.
-Check our Codebase on Github: <a href="https://github.com/rishavchanda/Buckoid-Android-App" target="blank">Code Link</a>.
+Check our Codebase on Github: <a href="https://github.com/viddokta/Buckoid-Android-App" target="blank">Code Link</a>.
 
 Once the app is fully launched and functional we plan to add more features like Backup in Google Drive using Google Drive API so that all the user data remains saved. Then we are planning to add Collect Coins & Badges on certain no of transactions and unlock more features so that the user comes to the app daily and stores his transactions each time. Then we are planning to include Goal saving features so that users can plan for certain goals and achieve them like Vacation trips, Buying a mobile, etc. Also, we are planning to include more visual data representation so that users can have a very clear look and compare and stay within their Budget.
 
